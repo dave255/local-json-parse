@@ -1,0 +1,21 @@
+/* CSS Document */
+
+body {
+	font-family:		Lucida Grande, Verdana, Sans-serif;
+	font-size:			12px;
+	color:				#666;
+}
+
+#stories  {
+	padding:			20px;
+	line-height: 		1.5;
+}
+
+
+a.selected
+{
+	text-decoration: none;
+	font-weight:bold;
+	color: #333;
+}
+
